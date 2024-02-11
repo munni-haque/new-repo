@@ -1,1 +1,23 @@
 hello world
+create git repo:
+remote:
+1.github e repo toiri
+
+local:
+
+2.computer e folder toiri
+3.files & folders toiri
+4.git init
+5.git add
+6.git commit -m "first commit"
+7.git brance -M main
+
+local <=> remote
+8.git remote add origin https://github.com/munni-haque/new-repo.git
+9.git push -u origin main
+
+update
+
+1.git add
+2.git commit -m"commit message"
+git push
